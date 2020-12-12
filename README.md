@@ -1,1 +1,1 @@
-# opencv_pics_movies
+# opencvのイロハ
