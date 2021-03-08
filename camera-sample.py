@@ -16,3 +16,5 @@ while True:
 
 cap.release() #カメラを開放
 cv2.destroyAllWindows() #ウィンドウを破棄
+
+#Qtとopencvによる干渉が起きてしまい、カメラが上手く起動しなかったため、opencvのヘッドレス版をインストールしなおしたら起動した
